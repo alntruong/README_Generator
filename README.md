@@ -76,7 +76,10 @@ Because this is a CLI App, there will be no need to deploy it to Heroku. This ti
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
 
 * Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
+* 
+![image](https://user-images.githubusercontent.com/88170746/146716889-9482570e-3b1b-4982-b165-34a2487ee192.png)
 
+![image](https://user-images.githubusercontent.com/88170746/146716968-0ce683f9-5f27-4498-975e-e9d5bea3a352.png)
 
 
 
